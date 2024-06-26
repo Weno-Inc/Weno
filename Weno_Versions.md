@@ -7,13 +7,10 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.1.   | :green_check_mark: |
-| < 1.0   | :x:                |
+| 1.2  | Stable |
+| 1.1  | Stable |
+| < 1.0   | Unsupported |
 
-## Reporting a Vulnerability
+## Changes to Version 1.2
 
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Version 1.2 replaces Weno's old look and features to the new layoyt from weno.framer.ai, this update also means that Weno is now using React JS.
